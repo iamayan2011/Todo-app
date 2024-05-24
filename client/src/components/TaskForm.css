@@ -1,0 +1,25 @@
+form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  div {
+    margin: 10px 0;
+  }
+  
+  label {
+    margin-bottom: 5px;
+  }
+  
+  input,
+  textarea,
+  select,
+  button {
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+
+  
